@@ -1,2 +1,2 @@
-1843110Sum of Diff : 1970720
-Similarity Score : 17191599
+Sum of Diff : 1970720
+Similarity : 17191599
